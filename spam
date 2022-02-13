@@ -1,1 +1,5 @@
 # install bahan dulu 
+
+git clone https://github.com/GALANG08/spam
+cd spam
+python spam.py
